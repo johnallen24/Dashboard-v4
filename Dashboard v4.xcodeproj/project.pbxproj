@@ -12,6 +12,20 @@
 		AB383A3420CACF880096A46E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB383A3220CACF880096A46E /* Main.storyboard */; };
 		AB383A3620CACF8A0096A46E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB383A3520CACF8A0096A46E /* Assets.xcassets */; };
 		AB383A3920CACF8A0096A46E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB383A3720CACF8A0096A46E /* LaunchScreen.storyboard */; };
+		AB383A5D20CD88AB0096A46E /* DashboardController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5420CD88AA0096A46E /* DashboardController4.swift */; };
+		AB383A5E20CD88AB0096A46E /* DashBoardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5520CD88AA0096A46E /* DashBoardController.swift */; };
+		AB383A5F20CD88AB0096A46E /* connectedPhonesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5620CD88AB0096A46E /* connectedPhonesCell.swift */; };
+		AB383A6020CD88AB0096A46E /* customButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5720CD88AB0096A46E /* customButtonView.swift */; };
+		AB383A6120CD88AB0096A46E /* dropDownButtonsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5820CD88AB0096A46E /* dropDownButtonsCell.swift */; };
+		AB383A6220CD88AB0096A46E /* dropDownOverrideCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5920CD88AB0096A46E /* dropDownOverrideCell.swift */; };
+		AB383A6320CD88AB0096A46E /* DasboardController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5A20CD88AB0096A46E /* DasboardController5.swift */; };
+		AB383A6420CD88AB0096A46E /* DeviceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5B20CD88AB0096A46E /* DeviceView.swift */; };
+		AB383A6520CD88AB0096A46E /* DashboardController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A5C20CD88AB0096A46E /* DashboardController3.swift */; };
+		AB383A6720CD893D0096A46E /* DashboardLayoutCreator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A6620CD893D0096A46E /* DashboardLayoutCreator.swift */; };
+		AB383A6C20CD8A130096A46E /* objecDetectorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A6820CD8A130096A46E /* objecDetectorController.swift */; };
+		AB383A6D20CD8A130096A46E /* OptionsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A6920CD8A130096A46E /* OptionsController.swift */; };
+		AB383A6E20CD8A130096A46E /* cameraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A6A20CD8A130096A46E /* cameraController.swift */; };
+		AB383A6F20CD8A130096A46E /* SurfaceCoilController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB383A6B20CD8A130096A46E /* SurfaceCoilController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		AB383A3520CACF8A0096A46E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB383A3820CACF8A0096A46E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB383A3A20CACF8A0096A46E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB383A5420CD88AA0096A46E /* DashboardController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashboardController4.swift; sourceTree = "<group>"; };
+		AB383A5520CD88AA0096A46E /* DashBoardController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashBoardController.swift; sourceTree = "<group>"; };
+		AB383A5620CD88AB0096A46E /* connectedPhonesCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = connectedPhonesCell.swift; sourceTree = "<group>"; };
+		AB383A5720CD88AB0096A46E /* customButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customButtonView.swift; sourceTree = "<group>"; };
+		AB383A5820CD88AB0096A46E /* dropDownButtonsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dropDownButtonsCell.swift; sourceTree = "<group>"; };
+		AB383A5920CD88AB0096A46E /* dropDownOverrideCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dropDownOverrideCell.swift; sourceTree = "<group>"; };
+		AB383A5A20CD88AB0096A46E /* DasboardController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DasboardController5.swift; sourceTree = "<group>"; };
+		AB383A5B20CD88AB0096A46E /* DeviceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceView.swift; sourceTree = "<group>"; };
+		AB383A5C20CD88AB0096A46E /* DashboardController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashboardController3.swift; sourceTree = "<group>"; };
+		AB383A6620CD893D0096A46E /* DashboardLayoutCreator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashboardLayoutCreator.swift; sourceTree = "<group>"; };
+		AB383A6820CD8A130096A46E /* objecDetectorController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = objecDetectorController.swift; sourceTree = "<group>"; };
+		AB383A6920CD8A130096A46E /* OptionsController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsController.swift; sourceTree = "<group>"; };
+		AB383A6A20CD8A130096A46E /* cameraController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cameraController.swift; sourceTree = "<group>"; };
+		AB383A6B20CD8A130096A46E /* SurfaceCoilController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SurfaceCoilController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +82,7 @@
 		AB383A2D20CACF880096A46E /* Dashboard v4 */ = {
 			isa = PBXGroup;
 			children = (
+				AB383A4020CD86FD0096A46E /* Controller */,
 				AB383A2E20CACF880096A46E /* AppDelegate.swift */,
 				AB383A3020CACF880096A46E /* ViewController.swift */,
 				AB383A3220CACF880096A46E /* Main.storyboard */,
@@ -62,6 +91,35 @@
 				AB383A3A20CACF8A0096A46E /* Info.plist */,
 			);
 			path = "Dashboard v4";
+			sourceTree = "<group>";
+		};
+		AB383A4020CD86FD0096A46E /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				AB383A6A20CD8A130096A46E /* cameraController.swift */,
+				AB383A6820CD8A130096A46E /* objecDetectorController.swift */,
+				AB383A6920CD8A130096A46E /* OptionsController.swift */,
+				AB383A6B20CD8A130096A46E /* SurfaceCoilController.swift */,
+				AB383A4120CD870B0096A46E /* Dashboard */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		AB383A4120CD870B0096A46E /* Dashboard */ = {
+			isa = PBXGroup;
+			children = (
+				AB383A5620CD88AB0096A46E /* connectedPhonesCell.swift */,
+				AB383A5720CD88AB0096A46E /* customButtonView.swift */,
+				AB383A5A20CD88AB0096A46E /* DasboardController5.swift */,
+				AB383A5520CD88AA0096A46E /* DashBoardController.swift */,
+				AB383A6620CD893D0096A46E /* DashboardLayoutCreator.swift */,
+				AB383A5C20CD88AB0096A46E /* DashboardController3.swift */,
+				AB383A5420CD88AA0096A46E /* DashboardController4.swift */,
+				AB383A5B20CD88AB0096A46E /* DeviceView.swift */,
+				AB383A5820CD88AB0096A46E /* dropDownButtonsCell.swift */,
+				AB383A5920CD88AB0096A46E /* dropDownOverrideCell.swift */,
+			);
+			path = Dashboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +193,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB383A6120CD88AB0096A46E /* dropDownButtonsCell.swift in Sources */,
+				AB383A6720CD893D0096A46E /* DashboardLayoutCreator.swift in Sources */,
+				AB383A5E20CD88AB0096A46E /* DashBoardController.swift in Sources */,
+				AB383A6420CD88AB0096A46E /* DeviceView.swift in Sources */,
+				AB383A6D20CD8A130096A46E /* OptionsController.swift in Sources */,
+				AB383A6C20CD8A130096A46E /* objecDetectorController.swift in Sources */,
+				AB383A6220CD88AB0096A46E /* dropDownOverrideCell.swift in Sources */,
+				AB383A6020CD88AB0096A46E /* customButtonView.swift in Sources */,
+				AB383A5F20CD88AB0096A46E /* connectedPhonesCell.swift in Sources */,
+				AB383A5D20CD88AB0096A46E /* DashboardController4.swift in Sources */,
+				AB383A6F20CD8A130096A46E /* SurfaceCoilController.swift in Sources */,
 				AB383A3120CACF880096A46E /* ViewController.swift in Sources */,
+				AB383A6320CD88AB0096A46E /* DasboardController5.swift in Sources */,
+				AB383A6E20CD8A130096A46E /* cameraController.swift in Sources */,
 				AB383A2F20CACF880096A46E /* AppDelegate.swift in Sources */,
+				AB383A6520CD88AB0096A46E /* DashboardController3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
